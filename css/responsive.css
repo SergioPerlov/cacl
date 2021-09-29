@@ -1,0 +1,115 @@
+/* Latop Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+   
+}
+
+
+/* LG  Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .cd-intro {
+        margin: 2em auto;
+    }
+    .hero-text p {
+        padding: 0px 0px 17px 0px;
+    }
+}
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+   .cd-headline.type i {
+       font-size: 32px;
+   }
+   .cd-headline .bld {
+       font-size: 32px;
+   }
+   .cd-intro {
+       margin: 0em auto;
+   }
+   .hero-text p {
+       font-weight: 400;
+       font-size: 12px;
+   }
+   .hero-text h4 {
+       font-size: 17px;
+   }
+   .hero-img {
+       padding: 93px 0px 0px 0px;
+   }
+   .about-text {
+       text-align: center;
+   }
+   .btn-area {
+       text-align: center;
+   }
+   .contact-form form input {
+       width: 45%;
+   }
+}
+
+
+/* small mobile (XS) :320px. */
+@media (max-width: 767px) {
+
+    .shape-area .shape01{
+        display: none;
+    }
+    .cd-headline.type i {
+        font-size: 26px;
+    }
+    .cd-headline .bld {
+        font-size: 26px;
+    }
+     .hero-text h4 {
+         font-size: 14px;
+     }
+     .hero-text p {
+         padding: 7px 0px 10px 0px;
+     }
+     .social-icon ul li {
+         margin-right: 6px;
+     }
+     .hero-text {
+         padding: 100px 0px 5px 0px;
+     }
+     .hero-img {
+         padding: 80px 0px 30px 0px;
+     }
+     .about-text {
+         text-align: center;
+     }
+
+     .btn-area {
+         text-align: center;
+     }
+     .btn-area a {
+         margin: 10px 0px 5px 25px;
+     }
+     .icon-info ul li a {
+         margin: 0;
+     }
+     .contact-form form input {
+         width: 91%;
+     }
+     .contact-form form textarea {
+         width: 88%;
+     }
+     .slider-1 img {
+         width: 43%;
+     }
+     .market-palce-icon-slider {
+         padding: 0px 0px 11px 0px;
+     }
+     .hero-shape-area {
+         display: none;
+     }
+     .about-shape-area{
+         display: none;
+     }
+}
+
+
+
+/* SM Device :480px. */
+@media only screen and (min-width: 550px) and (max-width: 767px) {
+  
+}
